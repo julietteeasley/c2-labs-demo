@@ -1,6 +1,7 @@
 import {Product} from './product';
 
 export const PRODUCTS: Product[] = [
-  {id: 2, name: 'Netflix'},
-  {id: 3, name: 'Hulu'}
+  {id: 1, name: 'Business Analysis: Big Picture Explanation'},
+  {id: 2, name: 'Course Notes'},
+  {id: 3, name: 'Exam Study Sheets'}
 ];
