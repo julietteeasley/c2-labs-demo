@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
 
+  footer_text = 'Copyright C2 Labs 2020'
+
   constructor() { }
 
   ngOnInit(): void {
