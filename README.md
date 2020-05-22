@@ -13,8 +13,7 @@ This demo was written for C2 Labs, Inc.  This is a simple frontend app written i
 
 To run this project, install it locally using npm:
 
-'''
-$ brew install node
+'$ brew install node'
 
 $ npm install -g @angular/cli
 
@@ -22,7 +21,6 @@ $ ng new c2-labs-demo
 
 $ cd ../c2-labs-demo
 
-'''
 
 ## Frequently Used in Terminal:
 | Command | Description |
